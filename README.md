@@ -1,2 +1,6 @@
 # AUTOPUSHING
 testing my script for auto pushing
+ok ok 
+ok ok 
+
+ok and ok
